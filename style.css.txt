@@ -1,0 +1,103 @@
+body {
+  font-family: Arial, sans-serif;
+  background-color: bisque;
+  color: brown;
+  margin: 0;
+  padding: 20px;
+}
+
+
+img {
+  border-radius: 12px;
+  box-shadow: 0 4px 8px rgba(0, 0, 0, 0.15);
+}
+
+
+#main-header {
+  background-color: brown;
+  color: #ffffff;
+  padding: 20px;
+  text-align: center;
+  border-radius: 8px;
+}
+
+#main-header h1 {
+  margin: 0;
+  font-size: 28px;
+}
+
+#main-header h2 {
+  margin-top: 5px;
+  color: #5d1c0a;
+  font-size: 18px;
+  font-weight: normal;
+}
+
+
+.card-container {
+  max-width: 800px;
+  margin: 20px auto;
+  background-color: #ffffff;
+  padding: 20px;
+  border-radius: 8px;
+  box-shadow: 0 4px 6px rgba(0, 0, 0, 0.1);
+}
+
+
+.section-title {
+  color: crimson;
+  border-bottom: 2px solid #e2e8f0;
+  padding-bottom: 5px;
+}
+
+
+.skills-list {
+  list-style-type: square;
+  padding-left: 20px;
+}
+
+.skills-list li {
+  margin-bottom: 8px;
+  font-weight: bold;
+}
+
+
+main section p {
+  font-size: 16px;
+  line-height: 1.6;
+ color: brown;
+}
+
+
+a.link-btn {
+  color: #2563eb;
+  text-decoration: none;
+  font-weight: bold;
+}
+
+a.link-btn:hover {
+  color: #dc2626;
+  text-decoration: underline;
+}
+
+
+table {
+  width: 100%;
+  border-collapse: collapse;
+  margin-top: 10px;
+}
+
+th, td {
+  border: 1px solid #5d1c0a;
+  padding: 10px;
+  text-align: left;
+}
+
+thead tr {
+  background-color: darkred;
+  color: #ffffff;
+}
+
+#exp-title {
+  color: crimson;
+}

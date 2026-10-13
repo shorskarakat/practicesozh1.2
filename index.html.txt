@@ -1,0 +1,65 @@
+<!DOCTYPE html>
+<html lang="kk">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <meta name="description" content="Ақпараттық қауіпсіздік студентінің сандық визиткасы">
+  <meta name="keywords" content="визитка, HTML5, веб-әзірлеу, СӨЖ">
+  <meta name="author" content="Студент Аты-жөні">
+  <title>Менің сандық визиткам</title>
+  <link rel="stylesheet" href="style.css">
+  <link rel="icon" href="favicon.ico" type="image/x-icon">
+
+  
+  <meta property="og:title" content="Студенттің сандық визиткасы">
+  <meta property="og:description" content="Веб-бағдарламалау курсы бойынша жасалған визитка сайт">
+  <meta property="og:image" content="profile.jpg">
+</head>
+<body>
+  <header>
+    <h1>Аты-жөні:Щорс Қарақат</h1>
+    <h2>Мамандығы: Ақпараттық қауіпсіздік</h2>
+  </header>
+
+  <main>
+    <section>
+      <h3>Өзім туралы</h3>
+      <p>Мен веб-технологиялар мен киберқауіпсіздікті оқып үйренудемін.</p>
+      <img src="https://pdftourl.net/images/1791828788019-4ffb5a7f-502b-43fc-8d75-22ed23688e67.jpeg" alt="Менін суретім" width="150">
+    </section>
+
+    <section>
+      <h3>Менің дағдыларым</h3>
+      <ul>
+        <li>HTML5 & CSS3</li>
+        <li>JavaScript негіздері</li>
+        <li>Желілік қауіпсіздік</li>
+      </ul>
+    </section>
+
+    <section>
+      <h3>Сабақ кестесі</h3>
+      <table>
+        <thead>
+          <tr>
+            <th>Күн</th>
+            <th>Пән</th>
+            <th>Уақыты</th>
+          </tr>
+        </thead>
+        <tbody>
+          <tr>
+            <td>Бейсенбі</td>
+            <td>Web бағдарламалауға кіріспе</td>
+            <td>12:10 - 13:00</td>
+          </tr>
+        </tbody>
+      </table>
+    </section>
+        <section>
+  <h3>Байланыс</h3>
+  <p>GitHub профилім: <a href="https://github.com/shorskarakat/practicesozh.git" target="_blank">Сілтеме</a></p>
+    </section>
+  </main>
+</body>
+</html>
