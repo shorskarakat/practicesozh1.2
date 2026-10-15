@@ -5,7 +5,7 @@
   <meta name="viewport" content="width=device-width, initial-scale=1.0">
   <meta name="description" content="Ақпараттық қауіпсіздік студентінің сандық визиткасы">
   <meta name="keywords" content="визитка, HTML5, веб-әзірлеу, СӨЖ">
-  <meta name="author" content="Студент Аты-жөні">
+  <meta name="author" content="Щорс Қарақат">
   <title>Менің сандық визиткам</title>
   <link rel="stylesheet" href="style.css">
   <link rel="icon" href="favicon.ico" type="image/x-icon">
